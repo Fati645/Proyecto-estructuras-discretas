@@ -98,6 +98,8 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 ---
 
 ## 📁 5. Teoría de la computabilidad
+**Objetivo:** El alumno aplicará la teoría de la computabilidad para determinar el estado computacional de funciones y
+problemas.
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
