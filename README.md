@@ -14,3 +14,7 @@
 
 
 ##BIBLIOTECA MTRO. ENRIQUE RIVERO BORRELL
+
+|LIBRO | AUTOR | EJEMPLARES 
+|------|------|------|
+|Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5
