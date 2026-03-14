@@ -37,65 +37,65 @@ Para facilitar la consulta de los temas de la materia de Estructuras Discretas, 
 De esta forma, los estudiantes pueden identificar rápidamente qué material consultar según el tema que desean estudiar, evitando que la búsqueda de información se vuelva un proceso tedioso.
 
 ## 📁 1. Lógica proposicional y cálculo de predicados
-Objetivo: El alumno inferirá la teoría de la lógica matemática para aplicarla en la solución de problemas dentro del
-campo de la computación
-|Subtemas |Libros que pueden ser de ayuda | Capítulo |
-|------|------| ------|
-|1.1 Fórmulas proposicionales y tablas de verdad |`-EPP,Susanna S. `<br>________________________________________<br> `Hol` | Cap. 2.1 (p.37) y 2.2 (p.53) <br>________________________________________<br> Cap | 
-|1.2 Formas normales y dispositivos de dos estados|EPP, Susanna S. | Cap. 2.4 (p.79) |
-|1.3 Notación polaca y parentizada| TREMBLAY, Jean-Paul| Cap. 1-3.6 (p. 61) |
-|1.4 Elementos de inferencia para el cálculo proposicional| EPP,Susanna S. | Cap. 2.3 (p.66) |
-|1.5  Prueba automática de teoremas|EPP,Susanna S.<br> | -Cap. 3.3(p.131)  |
-|1.6 Cálculo de predicados| EPP, Susanna S.| Cap. 1.1 (p.1), cap. 3.1(p. 108), 3.2 (p. 122) y cap. 3.4(p.146) |
+**Objetivo:** El alumno inferirá la teoría de la lógica matemática para aplicarla en la solución de problemas dentro del campo de la computación.
+
+| Subtemas | Libros que pueden ser de ayuda | Capítulo |
+| :--- | :--- | :--- |
+| **1.1 Fórmulas proposicionales y tablas de verdad** | EPP, Susanna S. <br>________________________________________<br> KOLMAN, Bernard <br>________________________________________<br> JOHNSONBAUGH, Richard | Cap. 2.1 (p. 37) y 2.2 (p. 53) <br>________________________________________<br> Cap. 2.1 y 2.2 <br>________________________________________<br> Cap. 1.2 y 1.3 |
+| **1.2 Formas normales y dispositivos de dos estados** | EPP, Susanna S. | Cap. 2.4 (p. 79) |
+| **1.3 Notación polaca y parentizada** | TREMBLAY, Jean-Paul | Cap. 1-3.6 (p. 61) |
+| **1.4 Elementos de inferencia** | EPP, Susanna S. <br>________________________________________<br> KOLMAN, Bernard <br>________________________________________<br> JOHNSONBAUGH, Richard | Cap. 2.3 (p. 66) <br>________________________________________<br> Cap. 2.3 y 2.6 <br>________________________________________<br> Cap. 1.4 |
+| **1.5 Prueba automática de teoremas** | EPP, Susanna S. <br>________________________________________<br> JOHNSONBAUGH, Richard <br>________________________________________<br> BERMAN, Kenneth | Cap. 3.3 (p. 131) <br>________________________________________<br> Cap. 2.3 (Resolution) <br>________________________________________<br> Cap. 1.2.2 |
+| **1.6 Cálculo de predicados** | EPP, Susanna S. <br>________________________________________<br> KOLMAN, Bernard <br>________________________________________<br> JOHNSONBAUGH, Richard | Cap. 1.1, 3.1, 3.2 y 3.4 <br>________________________________________<br> Cap. 2.5 <br>________________________________________<br> Cap. 1.5 y 1.6 |
+
+---
 
 ## 📁 2. Conjuntos, relaciones y pruebas matemáticas
-#Objetivo: El alumno analizará el concepto de conjuntos, relaciones y pruebas matemáticas a través de un enfoque
-computacional.
-| Subtemas |Libros que pueden ser de ayuda | Capítulo |
-|------|------|------|
-|2.1 Conjuntos| Epp, Susanna S.| Cap. 1.2(p.6) |
-|2.2 Relaciones y funciones | EPP, Susanna S. | Cap. 1.3(p.15) |
-|2.3 Congruencias |-Epp, Susanna S. | -Cap. 4.4 (p.190), cap .4.5 (p.200) |
-|2.4 Prueba por inducción matemática | - Epp, Susanna S. | Cap. 5.2 (p.275), Cap. 5.3 (p.289)|
-|2.5 Técnica del casillero vacío y diagonalización|
-|2.6 Análisis combinatorio|
-|2.7 Probabilidad discreta |
+**Objetivo:** El alumno analizará el concepto de conjuntos, relaciones y pruebas matemáticas a través de un enfoque computacional.
 
+| Subtemas | Libros que pueden ser de ayuda | Capítulo |
+| :--- | :--- | :--- |
+| **2.1 Conjuntos** | EPP, Susanna S. <br>________________________________________<br> KOLMAN, Bernard <br>________________________________________<br> JOHNSONBAUGH, Richard <br>________________________________________<br> BERMAN, Kenneth | Cap. 1.2 (p. 6) <br>________________________________________<br> Cap. 1.1 y 1.2 <br>________________________________________<br> Cap. 1.1 <br>________________________________________<br> Apéndice A.5 |
+| **2.2 Relaciones y funciones** | EPP, Susanna S. <br>________________________________________<br> KOLMAN, Bernard | Cap. 1.3 (p. 15) y Cap. 7.1 <br>________________________________________<br> Cap. 4.1 a 4.5 |
+| **2.3 Congruencias** | EPP, Susanna S. <br>________________________________________<br> BERMAN, Kenneth | Cap. 4.4 (p. 190) y 4.5 (p. 200) <br>________________________________________<br> Apéndice A.2 |
+| **2.4 Prueba por inducción matemática** | EPP, Susanna S. <br>________________________________________<br> KOLMAN, Bernard <br>________________________________________<br> JOHNSONBAUGH, Richard <br>________________________________________<br> BERMAN, Kenneth | Cap. 5.2 (p. 275) y 5.3 (p. 289) <br>________________________________________<br> Cap. 2.4 <br>________________________________________<br> Cap. 2.4 y 2.5 <br>________________________________________<br> Cap. 3.4 |
+| **2.5 Técnica del casillero vacío** | EPP, Susanna S. <br>________________________________________<br> KOLMAN, Bernard | Cap. 7.4 y 9.4 <br>________________________________________<br> Cap. 3.3 |
+| **2.6 Análisis combinatorio** | KOLMAN, Bernard <br>________________________________________<br> BERMAN, Kenneth | Cap. 3.1, 3.2 y 3.5 <br>________________________________________<br> Cap. 3.3 (Recurrencia) |
+| **2.7 Probabilidad discreta** | KOLMAN, Bernard <br>________________________________________<br> BERMAN, Kenneth | Cap. 3.4 <br>________________________________________<br> Apéndice E |
+
+---
 
 ## 📁 3. Sistemas algebraicos
-#Objetivo: El alumno aplicará la teoría de los sistemas algebraicos dentro del campo de la computación, a tráves de
-áreas tales como álgebra booleana, códigos de comunicaciones, circuitos de dos estados y aspectos específicos
-de la computadora.
+**Objetivo:** El alumno aplicará la teoría de los sistemas algebraicos dentro del campo de la computación.
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
-|------|------|------|
-|3.1 Definiciones y conceptos |TREMBLAY, Jean-Paul| Cap. 3.1 (p. 268)|
-|3.2 La aritmética de residuos en las computadoras | - Epp, Susanna S. | -Cap. 2.5 (p. 93), Cap. 5.1(p.258) |
-|3.3 Los códigos de grupo en las comunicaciones |
-|3.4 Álgebra booleana |TREMBLAY, Jean-Paul| Cap. 4.2 (p. 394)|
-|3.5 Representación y minimización de funciones booleanas|
-|3.6 Introducción a los circuitos de dos estados |
+| :--- | :--- | :--- |
+| **3.1 Definiciones y conceptos** | TREMBLAY, Jean-Paul <br>________________________________________<br> KOLMAN, Bernard | Cap. 3.1 (p. 268) <br>________________________________________<br> Cap. 9.1 a 9.5 |
+| **3.2 Aritmética de residuos** | EPP, Susanna S. | Cap. 2.5 (p. 93) y Cap. 5.1 (p. 258) |
+| **3.3 Códigos de grupo y criptografía** | KOLMAN, Bernard <br>________________________________________<br> BERMAN, Kenneth | Cap. 11.1 y 11.2 <br>________________________________________<br> Cap. 17.5 (RSA) |
+| **3.4 Álgebra booleana** | TREMBLAY, Jean-Paul <br>________________________________________<br> JOHNSONBAUGH, Richard | Cap. 4.2 (p. 394) <br>________________________________________<br> Cap. 11.3 |
+| **3.5 Representación y minimización** | JOHNSONBAUGH, Richard <br>________________________________________<br> BERMAN, Kenneth | Cap. 11.1 <br>________________________________________<br> Cap. 5 y 11.4 |
 
-## 📁 4. Teoría de gráficas 
-#Objetivo: El alumno formulará en la computadora diferentes tipos de gráficas, generando aplicaciones para la
-solución de problemas planteados
+---
+
+## 📁 4. Teoría de gráficas
+**Objetivo:** El alumno formulará en la computadora diferentes tipos de gráficas para la solución de problemas.
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
-|------|------|------|
-|4.1 Conceptos básicos y definiciones| - Epp, Susanna S.| -Cap. 4.9 (p.235)
-|4.2 Representación matricial |
-|4.3 Manipulación de gráficas |
-|4.4 Árboles |
-|4.5 Aplicaciones de la teoría de grafos y árboles|
+| :--- | :--- | :--- |
+| **4.1 Conceptos básicos** | EPP, Susanna S. <br>________________________________________<br> BERMAN, Kenneth | Cap. 4.9 (p. 235) <br>________________________________________<br> Cap. 11.1 |
+| **4.3 Manipulación de gráficas** | JOHNSONBAUGH, Richard <br>________________________________________<br> BERMAN, Kenneth | Cap. 9.8 <br>________________________________________<br> Cap. 11.2 (BFS/DFS) y 23.3 (A*) |
+| **4.4 Árboles** | JOHNSONBAUGH, Richard <br>________________________________________<br> BERMAN, Kenneth | Cap. 9.1, 9.2 <br>________________________________________<br> Cap. 4 y 21 (B-Trees) |
+| **4.5 Aplicaciones de grafos y árboles** | JOHNSONBAUGH, Richard <br>________________________________________<br> BERMAN, Kenneth | Cap. 10 <br>________________________________________<br> Cap. 12 (Dijkstra) y 14 (Flows) |
 
+---
 
-## 📁 5. Teoría de la computabilidad 
+## 📁 5. Teoría de la computabilidad
 
-|Subtemas|Libros que pueden ser de ayuda| Capítulo |
-|------|------|------|
-|5.1 Elementos de la teoría de la computabilidad|
-|5.2 Funciones parciales|
-|5.3 Funciones computables|
-| 5.4 Funciones universales e intérpretes| 
+| Subtemas | Libros que pueden ser de ayuda | Capítulo |
+| :--- | :--- | :--- |
+| **5.1 Elementos de la teoría** | EPP, Susanna S. <br>________________________________________<br> BERMAN, Kenneth | Cap. 12.1 <br>________________________________________<br> Cap. 15 (Parallel) y 25 |
+| **5.3 Funciones computables** | KOLMAN, Bernard <br>________________________________________<br> BERMAN, Kenneth | Cap. 5.3 <br>________________________________________<br> Cap. 26 (P vs NP) y 3.1 |
+| **5.4 Funciones universales e intérpretes**| JOHNSONBAUGH, Richard <br>________________________________________<br> BERMAN, Kenneth | Cap. 12.5 <br>________________________________________<br> Cap. 23 (AI) y 27 (TSP) || 
 
 
