@@ -36,7 +36,8 @@ Objetivo: El alumno inferirá la teoría de la lógica matemática para aplicarl
 campo de la computación
 |Subtemas |Libros que pueden ser de ayuda | Capítulo |
 |------|------| ------|
-|1.1 Fórmulas proposicionales y tablas de verdad |   |    |
+|1.1 Fórmulas proposicionales y tablas de verdad |EPP,Susanna S. | Cap. 2.1 (p.37) y 2.2 (p.53)|
+                                                 | |
 |1.2 Formas normales y dispositivos de dos estados|    |    |
 |1.3 Notación polaca y parentizada|  |
 |1.4 Elementos de inferencia para el cálculo proposicional|  |
