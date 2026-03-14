@@ -12,7 +12,7 @@ Página 131-135
 
 |LIBRO | AUTOR | EJEMPLARES | Link de consulta|
 |------|------|------|------|
-|Discrete mathematics with applications|EPP, Susanna S.| 2 |https://www-ebooks7-24-com.pbidi.unam.mx:2443/visorBook.aspx?i=15887&t=C339B4F6-9B84-41D5-81FD-866D708D0848&p=1|
+|Discrete mathematics with applications|EPP, Susanna S.| 2 ||
 |Discrete Mathematics | JOHNSONBAUGH, Richard | 3 | |
 |Discrete Mathematical Structures | KOLMAN, Bernard | 7 | |
 
