@@ -29,7 +29,7 @@ Página 131-135
 |Matematicas Discretas y sus aplicaciones| ROSEN,Keneth | 1 | |
 |Matemáticas discretas con aplicación a las ciencias de la computación de México | TREMBLAY, Jean-Paul, MANOHAR, Ram, RANGEL, Raymundo |23| |
 |Matematicas discretas con teoría de gráficas y combinatoria | VEERARAJAN, T. | 2 | |
-|Estructuras discretas. Lógica proposicional y cálculo de predicados México | 7 | |
+|Estructuras discretas. Lógica proposicional y cálculo de predicados México | ZALDIVAR ESQUIVEL, Orlando, ZALDIVAR ZAMORATEGUI, Orlando| 7 |
 
 ## 📖 Referencia de temas
 
