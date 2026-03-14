@@ -69,10 +69,10 @@ de la computadora.
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 |------|------|------|
-|3.1 Definiciones y conceptos |
+|3.1 Definiciones y conceptos |TREMBLAY, Jean-Paul| Cap. 3.1 (p. 268)|
 |3.2 La aritmética de residuos en las computadoras | - Epp, Susanna S. | -Cap. 2.5 (p. 93), Cap. 5.1(p.258) |
 |3.3 Los códigos de grupo en las comunicaciones |
-|3.4 Álgebra booleana |
+|3.4 Álgebra booleana |TREMBLAY, Jean-Paul| Cap. 4.2 (p. 394)|
 |3.5 Representación y minimización de funciones booleanas|
 |3.6 Introducción a los circuitos de dos estados |
 
