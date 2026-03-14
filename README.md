@@ -36,12 +36,12 @@ Objetivo: El alumno inferirá la teoría de la lógica matemática para aplicarl
 campo de la computación
 |Subtemas |Libros que pueden ser de ayuda | Capítulo |
 |------|------| ------|
-|1.1 Fórmulas proposicionales y tablas de verdad |EPP,Susanna S.<br> Hola | Cap. 2.1 (p.37) y 2.2 (p.53)| 
+|1.1 Fórmulas proposicionales y tablas de verdad |-EPP,Susanna S.<br> Hola | Cap. 2.1 (p.37) y 2.2 (p.53)| 
 |1.2 Formas normales y dispositivos de dos estados|EPP, Susanna S. | Cap. 2.4 (p.79) |
 |1.3 Notación polaca y parentizada|  |
 |1.4 Elementos de inferencia para el cálculo proposicional| EPP,Susanna S. | Cap. 2.3 (p.66) |
-|1.5  Prueba automática de teoremas| |  |
-|1.6 Cálculo de predicados| EPP, Susanna S.| Cap. 1.1 (p.1) |
+|1.5  Prueba automática de teoremas|-EPP,Susanna S.<br> | -Cap. 3.3(p.131)  |
+|1.6 Cálculo de predicados| EPP, Susanna S.| -Cap. 1.1 (p.1), cap. 3.1(p. 108), 3.2 (p. 122) y cap. 3.4(p.146) |
 
 ## 📁 2. Conjuntos, relaciones y pruebas matemáticas
 #Objetivo: El alumno analizará el concepto de conjuntos, relaciones y pruebas matemáticas a través de un enfoque
@@ -50,8 +50,8 @@ computacional.
 |------|------|------|
 |2.1 Conjuntos| Epp, Susanna S.| Cap. 1.2(p.6) |
 |2.2 Relaciones y funciones | EPP, Susanna S. | Cap. 1.3(p.15) |
-|2.3 Congruencias |
-|2.4 Prueba por inducción matemática |
+|2.3 Congruencias |-Epp, Susanna S. | -Cap. 4.4 (p.190), cap .4.5 (p.200) |
+|2.4 Prueba por inducción matemática | - Epp, Susanna S. | Cap. 5.2 (p.275), Cap. 5.3 (p.289)|
 |2.5 Técnica del casillero vacío y diagonalización|
 |2.6 Análisis combinatorio|
 |2.7 Probabilidad discreta |
@@ -65,7 +65,7 @@ de la computadora.
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 |------|------|------|
 |3.1 Definiciones y conceptos |
-|3.2 La aritmética de residuos en las computadoras |
+|3.2 La aritmética de residuos en las computadoras | - Epp, Susanna S. | -Cap. 2.5 (p. 93), Cap. 5.1(p.258) |
 |3.3 Los códigos de grupo en las comunicaciones |
 |3.4 Álgebra booleana |
 |3.5 Representación y minimización de funciones booleanas|
@@ -77,7 +77,7 @@ solución de problemas planteados
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 |------|------|------|
-|4.1 Conceptos básicos y definiciones|
+|4.1 Conceptos básicos y definiciones| - Epp, Susanna S.| -Cap. 4.9 (p.235)
 |4.2 Representación matricial |
 |4.3 Manipulación de gráficas |
 |4.4 Árboles |
