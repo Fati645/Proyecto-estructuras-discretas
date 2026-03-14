@@ -35,16 +35,23 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 |Subtemas |Libros que pueden ser de ayuda | Capítulo |
 |------|------| ------|
-|1.1 | | |
-|1.2| |
+|1.1 |   |    |
+|1.2|    |    |
 |1.3 |  |
 |1.4 |  |
 |1.5| |  |
+|1.6|   |   |
 
 ## 📁 2. Conjuntos, relaciones y pruebas matemáticas
 |Libros que pueden ser de ayuda | Capítulo |
 |------|------|
-|  |
+|2.1|
+|2.2|
+|2.3|
+|2.4|
+|2.5|
+|2.6|
+|2.7|
 
 
 ## 📁 3. Sistemas algebraicos
