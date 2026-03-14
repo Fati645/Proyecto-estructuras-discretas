@@ -29,8 +29,12 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 ## 📁 1. Lógica proposicional y cálculo de predicados
 
-|Libros que pueden ser de ayuda | Capítulo |
-|------|------|
+|Subtemas |Libros que pueden ser de ayuda | Capítulo |
+|------|------| ------|
+|1.1 | | |
+|1.2| |
+|1.3 |  |
+|1.4 |  |
 
 ## 📁 2. Conjuntos, relaciones y pruebas matemáticas
 |Libros que pueden ser de ayuda | Capítulo |
