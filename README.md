@@ -23,8 +23,11 @@ Página 131-135
 
 |LIBRO | AUTOR | EJEMPLARES 
 |------|------|------|
-|Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5|
-|Matemática discreta y lógica: Una perspectiva desde la Ciencia de la Computación|GRASSMANN, Winfried, TREMBLAY, Jean-paul| 8|
+|Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5 | |
+|Matemática discreta y lógica: Una perspectiva desde la Ciencia de la Computación|GRASSMANN, Winfried, TREMBLAY, Jean-paul| 8 | |
+|Matemáticas discretas con teoría de gráficas y combinatoria| T. Veerarajan, Gabriel Nagore C. | 2 | |
+|Estructuras discretas. Lógica proposicional y cálculo de predicados. Cuadernos de ejercicios| Orlando Zaldivar Esquivel, Orlando Zaldivar Zamorategui| 7 | |
+
 
 ## 📖 Referencia de temas ``
 
