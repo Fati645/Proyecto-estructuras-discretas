@@ -1,5 +1,4 @@
-#Guía digital de Consulta
-#Estructuras discretas
+#Guía digital de Consulta Estructuras discretas
 
 # Objetivo: Proporcionar  una fuente de consulta digital accesible y fácil de usar para la materia de Estructuras Discretas.
 
