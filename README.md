@@ -1,6 +1,7 @@
 #Guía digital de Consulta Estructuras discretas
-
+<p align="justify">
 # Objetivo: Proporcionar  una fuente de consulta digital accesible y fácil de usar para la materia de Estructuras Discretas.
+</p>
 # ENLACE CON EL TEMARIO DE LA MATERIA: https://www.ingenieria.unam.mx/programas_academicos/images/licenciatura/Computacion/2023/asignaturas_computacion_2023.pdf
 
 Página 131-135
@@ -32,9 +33,10 @@ Página 131-135
 
 
 ## 📖 Referencia de temas 
-
+<p align="justify">
 Para facilitar la consulta de los temas de la materia de Estructuras Discretas, se realizó una clasificación de los contenidos del temario indicando en qué libros o recursos pueden encontrarse.
 De esta forma, los estudiantes pueden identificar rápidamente qué material consultar según el tema que desean estudiar, evitando que la búsqueda de información se vuelva un proceso tedioso.
+</p>
 
 ## 📁 1. Lógica proposicional y cálculo de predicados
 **Objetivo:** El alumno inferirá la teoría de la lógica matemática para aplicarla en la solución de problemas dentro del campo de la computación.
