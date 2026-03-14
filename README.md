@@ -26,7 +26,7 @@ Página 131-135
 |Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5|
 |Matemática discreta y lógica: Una perspectiva desde la Ciencia de la Computación|GRASSMANN, Winfried, TREMBLAY, Jean-paul| 8|
 
-## 📖 Referencia de temas
+## 📖 Referencia de temas ``
 
 Para facilitar la consulta de los temas de la materia de Estructuras Discretas, se realizó una clasificación de los contenidos del temario indicando en qué libros o recursos pueden encontrarse.
 De esta forma, los estudiantes pueden identificar rápidamente qué material consultar según el tema que desean estudiar, evitando que la búsqueda de información se vuelva un proceso tedioso.
@@ -36,7 +36,7 @@ Objetivo: El alumno inferirá la teoría de la lógica matemática para aplicarl
 campo de la computación
 |Subtemas |Libros que pueden ser de ayuda | Capítulo |
 |------|------| ------|
-|1.1 Fórmulas proposicionales y tablas de verdad |-EPP,Susanna S.<br> Hola | Cap. 2.1 (p.37) y 2.2 (p.53)| 
+|1.1 Fórmulas proposicionales y tablas de verdad |`-EPP,Susanna S. `<br> `Hol` | Cap. 2.1 (p.37) y 2.2 (p.53)| 
 |1.2 Formas normales y dispositivos de dos estados|EPP, Susanna S. | Cap. 2.4 (p.79) |
 |1.3 Notación polaca y parentizada|  |
 |1.4 Elementos de inferencia para el cálculo proposicional| EPP,Susanna S. | Cap. 2.3 (p.66) |
