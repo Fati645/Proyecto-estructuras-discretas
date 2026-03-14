@@ -36,21 +36,20 @@ Objetivo: El alumno inferirá la teoría de la lógica matemática para aplicarl
 campo de la computación
 |Subtemas |Libros que pueden ser de ayuda | Capítulo |
 |------|------| ------|
-|1.1 Fórmulas proposicionales y tablas de verdad |EPP,Susanna S. | Cap. 2.1 (p.37) y 2.2 (p.53)|
-                                                   Juegos 
-|1.2 Formas normales y dispositivos de dos estados|    |    |
+|1.1 Fórmulas proposicionales y tablas de verdad |EPP,Susanna S. | Cap. 2.1 (p.37) y 2.2 (p.53)| 
+|1.2 Formas normales y dispositivos de dos estados|EPP, Susanna S. | Cap. 2.4 (p.79) |
 |1.3 Notación polaca y parentizada|  |
-|1.4 Elementos de inferencia para el cálculo proposicional|  |
+|1.4 Elementos de inferencia para el cálculo proposicional| EPP,Susanna S. | Cap. 2.3 (p.66) |
 |1.5  Prueba automática de teoremas| |  |
-|1.6 Cálculo de predicados|   |   |
+|1.6 Cálculo de predicados| EPP, Susanna S.| Cap. 1.1 (p.1) |
 
 ## 📁 2. Conjuntos, relaciones y pruebas matemáticas
 #Objetivo: El alumno analizará el concepto de conjuntos, relaciones y pruebas matemáticas a través de un enfoque
 computacional.
 | Subtemas |Libros que pueden ser de ayuda | Capítulo |
 |------|------|------|
-|2.1 Conjuntos|
-|2.2 Relaciones y funciones |
+|2.1 Conjuntos| Epp, Susanna S.| Cap. 1.2(p.6) |
+|2.2 Relaciones y funciones | EPP, Susanna S. | Cap. 1.3(p.15) |
 |2.3 Congruencias |
 |2.4 Prueba por inducción matemática |
 |2.5 Técnica del casillero vacío y diagonalización|
