@@ -42,7 +42,7 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
-| **1.1 Fórmulas proposicionales y tablas de verdad** | EPP, Susanna S. <br>________________________________________<br> HOL | Cap. 2.1 (p. 37) y 2.2 (p. 53) <br>________________________________________<br> Cap. |
+| **1.1 Fórmulas proposicionales y tablas de verdad** | EPP, Susanna S. <br>________________________________________<br> | Cap.2.1 (p. 37) y 2.2 (p. 53) <br>________________________________________<br> Cap. |
 | **1.2 Formas normales y dispositivos de dos estados** | EPP, Susanna S. <br>________________________________________<br> | Cap. 2.4 (p. 79) <br>________________________________________<br> |
 | **1.3 Notación polaca y parentizada** | TREMBLAY, Jean-Paul <br>________________________________________<br> | Cap. 1-3.6 (p. 61) <br>________________________________________<br> |
 | **1.4 Elementos de inferencia** | EPP, Susanna S. <br>________________________________________<br> KOLMAN, Bernard <br>________________________________________<br> JOHNSONBAUGH, Richard | Cap. 2.3 (p. 66) <br>________________________________________<br> Cap. 2.3 y 2.6 <br>________________________________________<br> Cap. 1.4 |
