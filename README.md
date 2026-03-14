@@ -9,6 +9,7 @@
 
 |LIBRO | AUTOR | EJEMPLARES 
 |------|------|------|
+|Discrete mathematics with applications|EPP, Susanna S.| 2 |
 
 
 
