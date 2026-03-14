@@ -36,17 +36,16 @@ Página 131-135
 Para facilitar la consulta de los temas de la materia de Estructuras Discretas, se realizó una clasificación de los contenidos del temario indicando en qué libros o recursos pueden encontrarse.
 De esta forma, los estudiantes pueden identificar rápidamente qué material consultar según el tema que desean estudiar, evitando que la búsqueda de información se vuelva un proceso tedioso.
 
-
 ## 📁 1. Lógica proposicional y cálculo de predicados
 **Objetivo:** El alumno inferirá la teoría de la lógica matemática para aplicarla en la solución de problemas dentro del campo de la computación.
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
-| **1.1 Fórmulas proposicionales y tablas de verdad** | EPP, Susanna S. <br>  | Cap. 2.1 (p. 37) y 2.2 (p. 53) <br> - |
-| **1.2 Formas normales y dispositivos de dos estados** | EPP, Susanna S. | Cap. 2.4 (p. 79) |
-| **1.3 Notación polaca y parentizada** | TREMBLAY, Jean-Paul | Cap. 1-3.6 (p. 61) |
-| **1.4 Elementos de inferencia** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard | Cap. 2.3 (p. 66) <br> Cap. 2.3 y 2.6 <br> Cap. 1.4 |
-| **1.5 Prueba automática de teoremas** | EPP, Susanna S. <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 3.3 (p. 131) <br> Cap. 2.3 (p. 85) <br> Cap. 1.2.2 (p. 14) |
+| **1.1 Fórmulas proposicionales y tablas de verdad** | EPP, Susanna S. <br> HOL | Cap. 2.1 y 2.2 <br> - |
+| **1.2 Formas normales y dispositivos de dos estados** | EPP, Susanna S. | Cap. 2.4 |
+| **1.3 Notación polaca y parentizada** | TREMBLAY, Jean-Paul | Cap. 1-3.6 |
+| **1.4 Elementos de inferencia** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard | Cap. 2.3 <br> Cap. 2.3 y 2.6 <br> Cap. 1.4 |
+| **1.5 Prueba automática de teoremas** | EPP, Susanna S. <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 3.3 <br> Cap. 2.3 <br> Cap. 1.2.2 |
 | **1.6 Cálculo de predicados** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard | Cap. 1.1, 3.1, 3.2 y 3.4 <br> Cap. 2.5 <br> Cap. 1.5 y 1.6 |
 
 ---
@@ -56,10 +55,10 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
-| **2.1 Conjuntos** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 1.2 (p. 6) <br> Cap. 1.1 y 1.2 <br> Cap. 1.1 <br> Apéndice A.5 |
-| **2.2 Relaciones y funciones** | EPP, Susanna S. <br> KOLMAN, Bernard | Cap. 1.3 (p. 15) <br> Cap. 4.1 a 4.5 |
-| **2.3 Congruencias** | EPP, Susanna S. <br> BERMAN, Kenneth | Cap. 4.4 (p. 190) y 4.5 (p. 200) <br> Apéndice A.2 |
-| **2.4 Prueba por inducción matemática** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 5.2 (p. 275) y 5.3 (p. 289) <br> Cap. 2.4 <br> Cap. 2.4 y 2.5 <br> Cap. 3.4 (p. 91) |
+| **2.1 Conjuntos** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 1.2 <br> Cap. 1.1 y 1.2 <br> Cap. 1.1 <br> Apéndice A.5 |
+| **2.2 Relaciones y funciones** | EPP, Susanna S. <br> KOLMAN, Bernard | Cap. 1.3 <br> Cap. 4.1 a 4.5 |
+| **2.3 Congruencias** | EPP, Susanna S. <br> BERMAN, Kenneth | Cap. 4.4 y 4.5 <br> Apéndice A.2 |
+| **2.4 Prueba por inducción matemática** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 5.2 y 5.3 <br> Cap. 2.4 <br> Cap. 2.4 y 2.5 <br> Cap. 3.4 |
 | **2.5 Técnica del casillero vacío** | EPP, Susanna S. <br> KOLMAN, Bernard | Cap. 7.4 <br> Cap. 3.3 |
 | **2.6 Análisis combinatorio** | KOLMAN, Bernard <br> BERMAN, Kenneth | Cap. 3.1, 3.2 y 3.5 <br> Cap. 3.3 |
 | **2.7 Probabilidad discreta** | KOLMAN, Bernard <br> BERMAN, Kenneth | Cap. 3.4 <br> Apéndice E |
@@ -71,11 +70,11 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
-| **3.1 Definiciones y conceptos** | TREMBLAY, Jean-Paul <br> KOLMAN, Bernard | Cap. 3.1 (p. 268) <br> Cap. 9.1 a 9.5 |
-| **3.2 Aritmética de residuos** | EPP, Susanna S. | Cap. 2.5 (p. 93) y Cap. 5.1 |
+| **3.1 Definiciones y conceptos** | TREMBLAY, Jean-Paul <br> KOLMAN, Bernard | Cap. 3.1 <br> Cap. 9.1 a 9.5 |
+| **3.2 Aritmética de residuos** | EPP, Susanna S. | Cap. 2.5 y Cap. 5.1 |
 | **3.3 Los códigos de grupo** | KOLMAN, Bernard <br> BERMAN, Kenneth | Cap. 11.1 y 11.2 <br> Cap. 17.5 |
-| **3.4 Álgebra booleana** | TREMBLAY, Jean-Paul <br> JOHNSONBAUGH, Richard | Cap. 4.2 (p. 394) <br> Cap. 11.3 |
-| **3.5 Representación y minimización** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 11.1 y 11.4 <br> Cap. 5.1 a 5.5 |
+| **3.4 Álgebra booleana** | TREMBLAY, Jean-Paul <br> JOHNSONBAUGH, Richard | Cap. 4.2 <br> Cap. 11.3 |
+| **3.5 Representación y minimización** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 11.1 <br> Cap. 5.1 a 5.5 |
 | **3.6 Circuitos de dos estados** | JOHNSONBAUGH, Richard | Cap. 11.2 |
 
 ---
@@ -85,10 +84,10 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
-| **4.1 Conceptos básicos** | EPP, Susanna S. <br> BERMAN, Kenneth | Cap. 4.9 (p. 235) <br> Cap. 11.1 |
+| **4.1 Conceptos básicos** | EPP, Susanna S. <br> BERMAN, Kenneth | Cap. 4.9 <br> Cap. 11.1 |
 | **4.2 Representación matricial** | KOLMAN, Bernard | Cap. 4.2 |
 | **4.3 Manipulación de gráficas** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 9.8 <br> Cap. 11.2 y 23.3 |
-| **4.4 Árboles** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 9.1 y 9.2 <br> Cap. 4 y 21 |
+| **4.4 Árboles** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 9.1 y 9.2 <br> Cap. 4.1 a 4.6 y 21 |
 | **4.5 Aplicaciones de grafos y árboles** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 10 <br> Cap. 12 y 14 |
 
 ---
