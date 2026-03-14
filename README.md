@@ -27,11 +27,22 @@
 Para facilitar la consulta de los temas de la materia de Estructuras Discretas, se realizó una clasificación de los contenidos del temario indicando en qué libros o recursos pueden encontrarse.
 De esta forma, los estudiantes pueden identificar rápidamente qué material consultar según el tema que desean estudiar, evitando que la búsqueda de información se vuelva un proceso tedioso.
 
-| Tema | Libro | Capítulo | Recurso recomendado|
+|Libros que pueden ser de ayuda | Capítulo |
 |------|------|------|------|
 | 1. Lógica proposicional y cálculo de predicados |
+
+|Libros que pueden ser de ayuda | Capítulo |
+|------|------|------|------|
 | 2. Conjuntos, relaciones y pruebas matemáticas |
+
+
+
 | 3. Sistemas algebraicos |
+
+
+
 | 4. Teoría de gráficas |
+
+
 | 5. Teoría de la computabilidad |
 
