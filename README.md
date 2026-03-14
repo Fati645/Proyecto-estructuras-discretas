@@ -35,16 +35,16 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 |Subtemas |Libros que pueden ser de ayuda | Capítulo |
 |------|------| ------|
-|1.1 |   |    |
-|1.2|    |    |
-|1.3 |  |
-|1.4 |  |
-|1.5| |  |
-|1.6|   |   |
+|1.1 Fórmulas proposicionales y tablas de verdad |   |    |
+|1.2 Formas normales y dispositivos de dos estados|    |    |
+|1.3 Notación polaca y parentizada|  |
+|1.4 Elementos de inferencia para el cálculo proposicional|  |
+|1.5  Prueba automática de teoremas| |  |
+|1.6 Cálculo de predicados|   |   |
 
 ## 📁 2. Conjuntos, relaciones y pruebas matemáticas
-|Libros que pueden ser de ayuda | Capítulo |
-|------|------|
+| Subtemas |Libros que pueden ser de ayuda | Capítulo |
+|------|------|------|
 |2.1|
 |2.2|
 |2.3|
@@ -56,17 +56,23 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 ## 📁 3. Sistemas algebraicos
 
-| Libros que pueden ser de ayuda | Capítulo |
-|------|------|
+| Subtemas | Libros que pueden ser de ayuda | Capítulo |
+|------|------|------|
+|3.1|
+|3.2|
+|3.3|
+|3.4|
+|3.5|
+|3.61
 
 ## 📁 4. Teoría de gráficas 
-| Libros que pueden ser de ayuda | Capítulo |
-|------|------|
+| Subtemas | Libros que pueden ser de ayuda | Capítulo |
+|------|------|------|
 
 
 ## 📁 5. Teoría de la computabilidad 
 
-|Libros que pueden ser de ayuda| Capítulo |
-|------|------|
+|Subtemas|Libros que pueden ser de ayuda| Capítulo |
+|------|------|------|
 
 
