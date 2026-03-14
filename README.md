@@ -10,6 +10,8 @@
 |LIBRO | AUTOR | EJEMPLARES 
 |------|------|------|
 |Discrete mathematics with applications|EPP, Susanna S.| 2 |
+|Discrete Mathematics | JOHNSONBAUGH, Richard | 3 |
+|Discrete Mathematical Structures | KOLMAN, Bernard | 7 |
 
 
 
