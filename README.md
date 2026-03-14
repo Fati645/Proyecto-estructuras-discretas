@@ -17,4 +17,5 @@
 
 |LIBRO | AUTOR | EJEMPLARES 
 |------|------|------|
-|Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5
+|Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5|
+|Matemática discreta y lógica: Una perspectiva desde la Ciencia de la Computación|GRASSMANN, Winfried, TREMBLAY, Jean-paul| 8|
