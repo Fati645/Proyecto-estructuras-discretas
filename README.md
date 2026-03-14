@@ -19,12 +19,15 @@ Página 131-135
 
 
 
+
 ## BIBLIOTECA MTRO. ENRIQUE RIVERO BORRELL
 
 |LIBRO | AUTOR | EJEMPLARES 
 |------|------|------|
 |Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5|
 |Matemática discreta y lógica: Una perspectiva desde la Ciencia de la Computación|GRASSMANN, Winfried, TREMBLAY, Jean-paul| 8|
+|Matematicas Discretas y sus aplicaciones| ROSEN,Keneth | | |
+|Matemáticas discretas con aplicación a las ciencias de la computación de México | TREMBLAY, Jean-Paul, MANOHAR, Ram, RANGEL, Raymundo |4| |
 
 ## 📖 Referencia de temas
 
