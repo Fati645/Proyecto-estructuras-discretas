@@ -3,7 +3,7 @@
 
 # Objetivo: Proporcionar  una fuente de consulta digital accesible y fácil de usar para la materia de Estructuras Discretas.
 
-#Bibliotecas consultadas 
+📚#Bibliotecas consultadas 
 
 ##BIBLIOTECA ING. ANTONIO DOVALÍ JAIME
 
