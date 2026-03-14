@@ -30,4 +30,8 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 | Tema | Libro | Capítulo | Recurso recomendado|
 |------|------|------|------|
 | 1. Lógica proposicional y cálculo de predicados |
+| 2. Conjuntos, relaciones y pruebas matemáticas |
+| 3. Sistemas algebraicos |
+| 4. Teoría de gráficas |
+| 5. Teoría de la computabilidad |
 
