@@ -26,7 +26,7 @@ Página 131-135
 |Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5 | |
 |Matemática discreta y lógica: Una perspectiva desde la Ciencia de la Computación|GRASSMANN, Winfried, TREMBLAY, Jean-paul| 8 | |
 |Matemáticas discretas y sus aplicaciones| ROSEN, Kenneth | 1 | | 
-|Matemáticas discretas con aplicación a las ciencias de la computación México| 23| |
+|Matemáticas discretas con aplicación a las ciencias de la computación México| TREMBLAY, Jean Paul, MANOHAR, Ram, RANGEL, Raymundo | 23|
 |Matemáticas discretas con teoría de gráficas y combinatoria| T. Veerarajan, Gabriel Nagore C. | 2 | |
 |Estructuras discretas. Lógica proposicional y cálculo de predicados. Cuadernos de ejercicios| Orlando Zaldivar Esquivel, Orlando Zaldivar Zamorategui| 7 | |
 
