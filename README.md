@@ -8,7 +8,7 @@ Página 131-135
 
 ## 📚 Bibliotecas consultadas 
 
-## BIBLIOTECA ING. ANTONIO DOVALÍ JAIME
+## 📍BIBLIOTECA ING. ANTONIO DOVALÍ JAIME
 
 |LIBRO | AUTOR | EJEMPLARES | Link de consulta|
 |------|------|------|------|
@@ -19,7 +19,7 @@ Página 131-135
 
 
 
-## BIBLIOTECA MTRO. ENRIQUE RIVERO BORRELL
+## 📍BIBLIOTECA MTRO. ENRIQUE RIVERO BORRELL
 
 |LIBRO | AUTOR | EJEMPLARES 
 |------|------|------|
@@ -31,7 +31,7 @@ Página 131-135
 |Estructuras discretas. Lógica proposicional y cálculo de predicados. Cuadernos de ejercicios| Orlando Zaldivar Esquivel, Orlando Zaldivar Zamorategui| 7 | |
 
 
-## 📖 Referencia de temas ``
+## 📖 Referencia de temas 
 
 Para facilitar la consulta de los temas de la materia de Estructuras Discretas, se realizó una clasificación de los contenidos del temario indicando en qué libros o recursos pueden encontrarse.
 De esta forma, los estudiantes pueden identificar rápidamente qué material consultar según el tema que desean estudiar, evitando que la búsqueda de información se vuelva un proceso tedioso.
