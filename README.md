@@ -43,10 +43,10 @@ campo de la computación
 |------|------| ------|
 |1.1 Fórmulas proposicionales y tablas de verdad |`-EPP,Susanna S. `<br>________________________________________<br> `Hol` | Cap. 2.1 (p.37) y 2.2 (p.53) <br>________________________________________<br> Cap | 
 |1.2 Formas normales y dispositivos de dos estados|EPP, Susanna S. | Cap. 2.4 (p.79) |
-|1.3 Notación polaca y parentizada|  |
+|1.3 Notación polaca y parentizada| TREMBLAY, Jean-Paul| Cap. 1-3.6 (p. 61) |
 |1.4 Elementos de inferencia para el cálculo proposicional| EPP,Susanna S. | Cap. 2.3 (p.66) |
-|1.5  Prueba automática de teoremas|-EPP,Susanna S.<br> | -Cap. 3.3(p.131)  |
-|1.6 Cálculo de predicados| EPP, Susanna S.| -Cap. 1.1 (p.1), cap. 3.1(p. 108), 3.2 (p. 122) y cap. 3.4(p.146) |
+|1.5  Prueba automática de teoremas|EPP,Susanna S.<br> | -Cap. 3.3(p.131)  |
+|1.6 Cálculo de predicados| EPP, Susanna S.| Cap. 1.1 (p.1), cap. 3.1(p. 108), 3.2 (p. 122) y cap. 3.4(p.146) |
 
 ## 📁 2. Conjuntos, relaciones y pruebas matemáticas
 #Objetivo: El alumno analizará el concepto de conjuntos, relaciones y pruebas matemáticas a través de un enfoque
