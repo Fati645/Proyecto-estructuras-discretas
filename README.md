@@ -77,12 +77,20 @@ solución de problemas planteados
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 |------|------|------|
-|4.1 Conceptos básicos y definiciones 
+|4.1 Conceptos básicos y definiciones|
+|4.2 Representación matricial |
+|4.3 Manipulación de gráficas |
+|4.4 Árboles |
+|4.5 Aplicaciones de la teoría de grafos y árboles|
 
 
 ## 📁 5. Teoría de la computabilidad 
 
 |Subtemas|Libros que pueden ser de ayuda| Capítulo |
 |------|------|------|
+|5.1 Elementos de la teoría de la computabilidad|
+|5.2 Funciones parciales|
+|5.3 Funciones computables|
+| 5.4 Funciones universales e intérpretes| 
 
 
