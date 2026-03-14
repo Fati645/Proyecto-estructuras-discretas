@@ -1,6 +1,10 @@
 #Guía digital de Consulta Estructuras discretas
 
 # Objetivo: Proporcionar  una fuente de consulta digital accesible y fácil de usar para la materia de Estructuras Discretas.
+# ENLACE CON EL TEMARIO DE LA MATERIA: https://www.ingenieria.unam.mx/programas_academicos/images/licenciatura/Computacion/2023/asignaturas_computacion_2023.pdf
+
+Página 131-135
+
 
 ## 📚 Bibliotecas consultadas 
 
@@ -35,6 +39,7 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 |1.2| |
 |1.3 |  |
 |1.4 |  |
+|1.5| |  |
 
 ## 📁 2. Conjuntos, relaciones y pruebas matemáticas
 |Libros que pueden ser de ayuda | Capítulo |
