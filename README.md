@@ -27,3 +27,7 @@
 Para facilitar la consulta de los temas de la materia de Estructuras Discretas, se realizó una clasificación de los contenidos del temario indicando en qué libros o recursos pueden encontrarse.
 De esta forma, los estudiantes pueden identificar rápidamente qué material consultar según el tema que desean estudiar, evitando que la búsqueda de información se vuelva un proceso tedioso.
 
+| Tema | Libro o Recurso |
+|------|------|
+| 1. Lógica proposicional y cálculo de predicados |
+
