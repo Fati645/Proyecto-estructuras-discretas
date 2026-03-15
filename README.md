@@ -96,8 +96,8 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
-| **4.1 Conceptos básicos** | EPP, Susanna S. <br> BERMAN, Kenneth <br> TREMBLAY, Jean-Paul <br> T. Veerarajan, Gabriel Nagore C. <br> GRASSMANN, Winfried | Cap. 4.9 <br> Cap. 11.1 <br> Cap 5.1 <br> Cap 7 <br> No aparece explícitamente |
-| **4.2 Representación matricial** | KOLMAN, Bernard <br> ROSEN Keneth <br> TREMBLAY, Jean-Paul <br> T. Veerarajan, Gabriel Nagore C. <br> GRASSMANN, Winfried | Cap. 4.2 <br> Cap 2.7 <br> Cap 2.3 y 5.1 <br> Cap 7 <br> No aparece explícitamente |
+| **4.1 Conceptos básicos** | EPP, Susanna S. <br> BERMAN, Kenneth <br> TREMBLAY, Jean-Paul <br> T. Veerarajan, Gabriel Nagore C.  | Cap. 4.9 <br> Cap. 11.1 <br> Cap 5.1 <br> Cap 7 |
+| **4.2 Representación matricial** | KOLMAN, Bernard <br> ROSEN Keneth <br> TREMBLAY, Jean-Paul <br> T. Veerarajan, Gabriel Nagore C. | Cap. 4.2 <br> Cap 2.7 <br> Cap 2.3 y 5.1 <br> Cap 7  |
 | **4.3 Manipulación de gráficas** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> TREMBLAY, Jean-Paul | Cap. 9.8 <br> Cap. 11.2 y 23.3 <br> Cap 5.2 |
 | **4.4 Árboles** | ROSEN Keneth <br> TREMBLAY, Jean-Paul <br> T. Veerarajan, Gabriel Nagore C. | Cap. 9 <br> Cap 5.1 y 5.2 <br> Cap 7 |
 | **4.5 Aplicaciones de grafos y árboles** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> ROSEN Keneth <br> T. Veerarajan, Gabriel Nagore C.  | Cap. 10 <br> Cap. 12 y 14 <br> Cap 9.2 <br> Cap 7 |
