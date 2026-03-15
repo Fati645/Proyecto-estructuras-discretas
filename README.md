@@ -29,13 +29,13 @@ Página 131-135
 |LIBRO | AUTOR | EJEMPLARES | CLASIFICACIÓN | BiDi UNAM |
 |------|------|------|------|
 |Discrete mathematics with applications|EPP, Susanna S.| 2 | QA39.2- E66 2004| ✅ |
-|Discrete Mathematics | JOHNSONBAUGH, Richard | 3 | QA39.2- J64 1993 | 
-|Discrete Mathematical Structures | KOLMAN, Bernard | 7 | QA76.9 - K64 1996|
-|Elementos de matemáticas discretas|LIU, C.L| 5 | |
-|Matemáticas discretas y sus aplicaciones| ROSEN, Kenneth | 1 | | 
-|Matemáticas discretas con aplicación a las ciencias de la computación México| TREMBLAY, Jean Paul, MANOHAR, Ram, RANGEL, Raymundo | 23 |
-|Matemáticas discretas con teoría de gráficas y combinatoria| T. Veerarajan, Gabriel Nagore C. | 2 | |
-|Estructuras discretas. Lógica proposicional y cálculo de predicados. Cuadernos de ejercicios| Orlando Zaldivar Esquivel, Orlando Zaldivar Zamorategui| 7 | |
+|Discrete Mathematics | JOHNSONBAUGH, Richard | 3 | QA39.2- J64 1993 | |
+|Discrete Mathematical Structures | KOLMAN, Bernard | 7 | QA76.9 - K64 1996| |
+|Elementos de matemáticas discretas|LIU, C.L| 5 | | |
+|Matemáticas discretas y sus aplicaciones| ROSEN, Kenneth | 1 | | |
+|Matemáticas discretas con aplicación a las ciencias de la computación México| TREMBLAY, Jean Paul, MANOHAR, Ram, RANGEL, Raymundo | 23 | | |
+|Matemáticas discretas con teoría de gráficas y combinatoria| T. Veerarajan, Gabriel Nagore C. | 2 | | |
+|Estructuras discretas. Lógica proposicional y cálculo de predicados. Cuadernos de ejercicios| Orlando Zaldivar Esquivel, Orlando Zaldivar Zamorategui| 7 | | |
 
 
 ## 📖 Referencia de temas 
