@@ -49,12 +49,12 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
-| **1.1 Fórmulas proposicionales y tablas de verdad** | EPP, Susanna S. <br>  | Cap. 2.1 y 2.2 <br>  |
-| **1.2 Formas normales y dispositivos de dos estados** | EPP, Susanna S. | Cap. 2.4 |
+| **1.1 Fórmulas proposicionales y tablas de verdad** | EPP, Susanna S. <br> ROSEN, Keneth <br> TREMBLAY, Jean-Paul | Cap. 2.1 y 2.2 <br>  Cap. 1.2 <br> Cap. 1-2.15 |
+| **1.2 Formas normales y dispositivos de dos estados** | EPP, Susanna S. <br> TREMBLAY, Jean-Paul | Cap. 2.4 <br> Cap. 1-3| 
 | **1.3 Notación polaca y parentizada** | TREMBLAY, Jean-Paul | Cap. 1-3.6 |
 | **1.4 Elementos de inferencia** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard | Cap. 2.3 <br> Cap. 2.3 y 2.6 <br> Cap. 1.4 |
-| **1.5 Prueba automática de teoremas** | EPP, Susanna S. <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 3.3 <br> Cap. 2.3 <br> Cap. 1.2.2 |
-| **1.6 Cálculo de predicados** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard | Cap. 1.1, 3.1, 3.2 y 3.4 <br> Cap. 2.5 <br> Cap. 1.5 y 1.6 |
+| **1.5 Prueba automática de teoremas** | EPP, Susanna S. <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> TREMBLAY, Jean-Paul| Cap. 3.3 <br> Cap. 2.3 <br> Cap. 1.2.2 <br> Cap 1-4.4 |
+| **1.6 Cálculo de predicados** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard <br> TREMBLAY, Jean-Paul | Cap. 1.1, 3.1, 3.2 y 3.4 <br> Cap. 2.5 <br> Cap. 1.5 y 1.6 <br> Cap 1-5.1|
 
 ---
 
@@ -63,13 +63,13 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
-| **2.1 Conjuntos** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 1.2 <br> Cap. 1.1 y 1.2 <br> Cap. 1.1 <br> Apéndice A.5 |
-| **2.2 Relaciones y funciones** | EPP, Susanna S. <br> KOLMAN, Bernard | Cap. 1.3 <br> Cap. 4.1 a 4.5 |
+| **2.1 Conjuntos** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> ROSEN, Keneth <br> TREMBLAY, Jean-Paul| Cap. 1.2 <br> Cap. 1.1 y 1.2 <br> Cap. 1.1 <br> Apéndice A.5 <br> Cap. 1.6 y 1.7 <br> Cap 2|
+| **2.2 Relaciones y funciones** | EPP, Susanna S. <br> KOLMAN, Bernard <br> ROSEN,Keneth <br> TREMBLAY, Jean-Paul| Cap. 1.3 <br> Cap. 4.1 a 4.5 <br> 1.8 <br> Cap. 2-3.1 y 2.4|
 | **2.3 Congruencias** | EPP, Susanna S. <br> BERMAN, Kenneth | Cap. 4.4 y 4.5 <br> Apéndice A.2 |
-| **2.4 Prueba por inducción matemática** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 5.2 y 5.3 <br> Cap. 2.4 <br> Cap. 2.4 y 2.5 <br> Cap. 3.4 |
+| **2.4 Prueba por inducción matemática** | EPP, Susanna S. <br> KOLMAN, Bernard <br> JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> ROSEN, Keneth| Cap. 5.2 y 5.3 <br> Cap. 2.4 <br> Cap. 2.4 y 2.5 <br> Cap. 3.4 <br> Cap. 3.3 |
 | **2.5 Técnica del casillero vacío** | EPP, Susanna S. <br> KOLMAN, Bernard | Cap. 7.4 <br> Cap. 3.3 |
 | **2.6 Análisis combinatorio** | KOLMAN, Bernard <br> BERMAN, Kenneth | Cap. 3.1, 3.2 y 3.5 <br> Cap. 3.3 |
-| **2.7 Probabilidad discreta** | KOLMAN, Bernard <br> BERMAN, Kenneth | Cap. 3.4 <br> Apéndice E |
+| **2.7 Probabilidad discreta** | KOLMAN, Bernard <br> BERMAN, Kenneth <br> ROSEN, Keneth | Cap. 3.4 <br> Apéndice E <br> Cap. 5.1|
 
 ---
 
@@ -79,10 +79,10 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
 | **3.1 Definiciones y conceptos** | TREMBLAY, Jean-Paul <br> KOLMAN, Bernard | Cap. 3.1 <br> Cap. 9.1 a 9.5 |
-| **3.2 Aritmética de residuos** | EPP, Susanna S. | Cap. 2.5 y Cap. 5.1 |
-| **3.3 Los códigos de grupo** | KOLMAN, Bernard <br> BERMAN, Kenneth | Cap. 11.1 y 11.2 <br> Cap. 17.5 |
-| **3.4 Álgebra booleana** | TREMBLAY, Jean-Paul <br> JOHNSONBAUGH, Richard | Cap. 4.2 <br> Cap. 11.3 |
-| **3.5 Representación y minimización** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 11.1 <br> Cap. 5.1 a 5.5 |
+| **3.2 Aritmética de residuos** | EPP, Susanna S. <br> TREMBLAY, Jean-Paul| Cap. 2.5 y Cap. 5.1 <br> Cap. 3.6|
+| **3.3 Los códigos de grupo** | KOLMAN, Bernard <br> BERMAN, Kenneth <br> TREMBLAY, Jean-Paul | Cap. 11.1 y 11.2 <br> Cap. 17.5 <br> Cap. 3.7|
+| **3.4 Álgebra booleana** | TREMBLAY, Jean-Paul <br> JOHNSONBAUGH, Richard <br> ROSEN, Keneth | Cap. 4.2 <br> Cap. 11.3 <br> Cap. 10.1|
+| **3.5 Representación y minimización** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> ROSEN, Keneth <br> TREMBLAY, Jean-Paul| Cap. 11.1 <br> Cap. 5.1 a 5.5 <br> Cap10.2 y 10.4 <br> Cap. 4.4|
 | **3.6 Circuitos de dos estados** | JOHNSONBAUGH, Richard | Cap. 11.2 |
 
 ---
