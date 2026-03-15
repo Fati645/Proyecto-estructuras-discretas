@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo del Repositorio
 <p align="justify">
-Proporcionar una fuente de consulta digital accesible y fácil de usar para la materia de Estructuras Discretas, centralizando las mejores referencias bibliográficas en un solo lugar.
+Proporcionar una fuente de consulta digital accesible y fácil de usar para la materia de Estructuras Discretas.
 </p>
 
 # ENLACE CON EL TEMARIO DE LA MATERIA: https://www.ingenieria.unam.mx/programas_academicos/images/licenciatura/Computacion/2023/asignaturas_computacion_2023.pdf
