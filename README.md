@@ -1,3 +1,8 @@
+# Equipo:
+**NL**:18 López Mendoza Luis Enrique
+**NL**21 Martínez España Fátima Elisa 
+**NL**31 Rangel Ruiz Jesús Uriel
+**NL**39 Santos Gordillo Edgar Emilio
 # Guía digital de Consulta Estructuras discretas
 
 ## 🎯 Objetivo del Repositorio
