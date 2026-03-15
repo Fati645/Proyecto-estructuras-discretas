@@ -82,7 +82,7 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 | **3.2 Aritmética de residuos** | EPP, Susanna S. <br> TREMBLAY, Jean-Paul| Cap. 2.5 y Cap. 5.1 <br> Cap. 3.6|
 | **3.3 Los códigos de grupo** | KOLMAN, Bernard <br> BERMAN, Kenneth <br> TREMBLAY, Jean-Paul | Cap. 11.1 y 11.2 <br> Cap. 17.5 <br> Cap. 3.7|
 | **3.4 Álgebra booleana** | TREMBLAY, Jean-Paul <br> JOHNSONBAUGH, Richard <br> ROSEN, Keneth | Cap. 4.2 <br> Cap. 11.3 <br> Cap. 10.1|
-| **3.5 Representación y minimización** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> ROSEN, Keneth <br> TREMBLAY, Jean-Paul| Cap. 11.1 <br> Cap. 5.1 a 5.5 <br> Cap10.2 y 10.4 <br> Cap. 4.4|
+| **3.5 Representación y minimización** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> ROSEN, Keneth <br> TREMBLAY, Jean-Paul| Cap. 11.1 <br> Cap. 5.1 a 5.5 <br> Cap 10.2 y 10.4 <br> Cap. 4.4|
 | **3.6 Circuitos de dos estados** | JOHNSONBAUGH, Richard | Cap. 11.2 |
 
 ---
