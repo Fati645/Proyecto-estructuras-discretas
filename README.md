@@ -95,7 +95,7 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 | **4.1 Conceptos básicos** | EPP, Susanna S. <br> BERMAN, Kenneth | Cap. 4.9 <br> Cap. 11.1 |
 | **4.2 Representación matricial** | KOLMAN, Bernard | Cap. 4.2 |
 | **4.3 Manipulación de gráficas** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 9.8 <br> Cap. 11.2 y 23.3 |
-| **4.4 Árboles** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 9.1 y 9.2 <br> Cap. 4.1 a 4.6 y 21 |
+| **4.4 Árboles** | ROSEN Keneth | Cap. 9 |
 | **4.5 Aplicaciones de grafos y árboles** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 10 <br> Cap. 12 y 14 |
 
 ---
