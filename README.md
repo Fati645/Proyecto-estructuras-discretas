@@ -19,18 +19,21 @@ Página 131-135
 |Discrete mathematics with applications|EPP, Susanna S.| 2 ||
 |Discrete Mathematics | JOHNSONBAUGH, Richard | 3 | |
 |Discrete Mathematical Structures | KOLMAN, Bernard | 7 | |
-
-
-
+|Elementos de matemáticas discretas|LIU, C.L| 3 | |
+|Matemáticas discretas y sus aplicaciones| ROSEN, Kenneth | 1 | | 
+|Matemáticas discretas con aplicación a las ciencias de la computación México| TREMBLAY, Jean Paul, MANOHAR, Ram, RANGEL, Raymundo | 20 |
+|Matemáticas discretas con teoría de gráficas y combinatoria| T. Veerarajan, Gabriel Nagore C. | 8 | |
+|Estructuras discretas. Lógica proposicional y cálculo de predicados. Cuadernos de ejercicios| Orlando Zaldivar Esquivel, Orlando Zaldivar Zamorategui| 23 | |
 
 ## 📍BIBLIOTECA MTRO. ENRIQUE RIVERO BORRELL
 
 |LIBRO | AUTOR | EJEMPLARES 
 |------|------|------|
 |Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5 | |
-|Matemática discreta y lógica: Una perspectiva desde la Ciencia de la Computación|GRASSMANN, Winfried, TREMBLAY, Jean-paul| 8 | |
+|Matemática discreta y lógica: Una perspectiva desde la Ciencia de la Computación|GRASSMANN, Winfried, TREMBLAY, Jean-paul| 23 | |
+|Elementos de matemáticas discretas|LIU, C.L| 5 | |
 |Matemáticas discretas y sus aplicaciones| ROSEN, Kenneth | 1 | | 
-|Matemáticas discretas con aplicación a las ciencias de la computación México| TREMBLAY, Jean Paul, MANOHAR, Ram, RANGEL, Raymundo | 23|
+|Matemáticas discretas con aplicación a las ciencias de la computación México| TREMBLAY, Jean Paul, MANOHAR, Ram, RANGEL, Raymundo | 23 |
 |Matemáticas discretas con teoría de gráficas y combinatoria| T. Veerarajan, Gabriel Nagore C. | 2 | |
 |Estructuras discretas. Lógica proposicional y cálculo de predicados. Cuadernos de ejercicios| Orlando Zaldivar Esquivel, Orlando Zaldivar Zamorategui| 7 | |
 
