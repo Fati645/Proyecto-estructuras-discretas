@@ -14,7 +14,7 @@ Página 131-135
 
 ## 📍BIBLIOTECA ING. ANTONIO DOVALÍ JAIME
 
-|LIBRO | AUTOR | EJEMPLARES | Clasificación|
+|LIBRO | AUTOR | EJEMPLARES | CLASIFICACIÓN |
 |------|------|------|------|
 ||Algorithms: Sequential, Parallel, and Distributed|BERMAN, Kenneth, PAUL, Jerome| 5 | QA76.9A43- B467 |
 |Matemática discreta y lógica: Una perspectiva desde la Ciencia de la Computación|GRASSMANN, Winfried, TREMBLAY, Jean-paul| 23 | QA76.9M35- G73|
@@ -27,8 +27,8 @@ Página 131-135
 
 ## 📍BIBLIOTECA MTRO. ENRIQUE RIVERO BORRELL
 
-|LIBRO | AUTOR | EJEMPLARES 
-|------|------|------|
+|LIBRO | AUTOR | EJEMPLARES | CLASIFICACIÓN |
+|------|------|------|------|
 |Discrete mathematics with applications|EPP, Susanna S.| 2 | QA39.2- E66 2004|
 |Discrete Mathematics | JOHNSONBAUGH, Richard | 3 | QA39.2- J64 1993 | 
 |Discrete Mathematical Structures | KOLMAN, Bernard | 7 | QA76.9 - K64 1996|
