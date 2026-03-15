@@ -92,11 +92,11 @@ De esta forma, los estudiantes pueden identificar rápidamente qué material con
 
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
-| **4.1 Conceptos básicos** | EPP, Susanna S. <br> BERMAN, Kenneth | Cap. 4.9 <br> Cap. 11.1 |
-| **4.2 Representación matricial** | KOLMAN, Bernard | Cap. 4.2 |
-| **4.3 Manipulación de gráficas** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 9.8 <br> Cap. 11.2 y 23.3 |
-| **4.4 Árboles** | ROSEN Keneth | Cap. 9 |
-| **4.5 Aplicaciones de grafos y árboles** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 10 <br> Cap. 12 y 14 |
+| **4.1 Conceptos básicos** | EPP, Susanna S. <br> BERMAN, Kenneth <br> TREMBLAY, Jean-Paul <br> T. Veerarajan, Gabriel Nagore C.| Cap. 4.9 <br> Cap. 11.1 <br> Cap 5.1 <br> Cap 7|
+| **4.2 Representación matricial** | KOLMAN, Bernard <br> ROSEN Keneth <br> TREMBLAY, Jean-Paul <br> T. Veerarajan, Gabriel Nagore C. | Cap. 4.2 <br> Cap 2.7 <br> Cap 2.3 y 5.1 <br> Cap 7|
+| **4.3 Manipulación de gráficas** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> TREMBLAY, Jean-Paul | Cap. 9.8 <br> Cap. 11.2 y 23.3 <br> Cap 5.2|
+| **4.4 Árboles** | ROSEN Keneth <br> TREMBLAY, Jean-Paul <br> T. Veerarajan, Gabriel Nagore C. | Cap. 9 <br> Cap 5.1 y 5.2 <br> Cap 7|
+| **4.5 Aplicaciones de grafos y árboles** | JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> ROSEN Keneth <br> T. Veerarajan, Gabriel Nagore C. | Cap. 10 <br> Cap. 12 y 14 <br> Cap 9.2 <br> Cap 7|
 
 ---
 
@@ -107,6 +107,6 @@ problemas.
 | Subtemas | Libros que pueden ser de ayuda | Capítulo |
 | :--- | :--- | :--- |
 | **5.1 Elementos de la teoría** | EPP, Susanna S. <br> BERMAN, Kenneth | Cap. 12.1 <br> Cap. 15 y 25 |
-| **5.2 Funciones parciales** | EPP, Susanna S. <br> KOLMAN, Bernard | Cap. 7.1 <br> Cap. 5.1 |
-| **5.3 Funciones computables** | KOLMAN, Bernard <br> BERMAN, Kenneth | Cap. 5.3 <br> Cap. 26 y 3.1 |
-| **5.4 Funciones universales e intérpretes**| JOHNSONBAUGH, Richard <br> BERMAN, Kenneth | Cap. 12.5 <br> Cap. 23 y 27 |
+| **5.2 Funciones parciales** | EPP, Susanna S. <br> KOLMAN, Bernard <br> TREMBLAY, Jean-Paul <br> T. Veerarajan, Gabriel Nagore C. | Cap. 7.1 <br> Cap. 5.1 <br> Cap 6.2 <br> Cap 4 |
+| **5.3 Funciones computables** | KOLMAN, Bernard <br> BERMAN, Kenneth <br> T. Veerarajan, Gabriel Nagore C. | Cap. 5.3 <br> Cap. 26 y 3.1 <br> Cap 4 |
+| **5.4 Funciones universales e intérpretes**| JOHNSONBAUGH, Richard <br> BERMAN, Kenneth <br> T. Veerarajan, Gabriel Nagore C. | Cap. 12.5 <br> Cap. 23 y 27 <br> Cap 4 |
