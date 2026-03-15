@@ -1,8 +1,8 @@
 # Equipo:
-**NL**:18 López Mendoza Luis Enrique
-**NL**21 Martínez España Fátima Elisa 
-**NL**31 Rangel Ruiz Jesús Uriel
-**NL**39 Santos Gordillo Edgar Emilio
+**NL**:18 López Mendoza Luis Enrique\n
+**NL**21 Martínez España Fátima Elisa\n
+**NL**31 Rangel Ruiz Jesús Uriel\n
+**NL**39 Santos Gordillo Edgar Emilio\n
 # Guía digital de Consulta Estructuras discretas
 
 ## 🎯 Objetivo del Repositorio
